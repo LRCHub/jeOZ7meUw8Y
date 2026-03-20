@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "荊の薔薇",
   "base_artist": "トゲナシトゲアリ",
-  "createdAt": "2026-03-20T15:06:09.090711Z",
+  "createdAt": "2026-03-20T18:57:41.032613Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "トゲナシトゲアリ",
       "has_synced": false,
       "path": "select/pl_01_荊の薔薇_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "荊の薔薇",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/localdb_01_荊の薔薇_トゲナシトゲアリ.txt",
+      "repo_name": "jeOZ7meUw8Y"
     }
   ]
 }
